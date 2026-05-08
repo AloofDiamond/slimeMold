@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cb7qky4foqnd2"
+path="res://.godot/imported/diffuseEvaporate.glsl-b271987e0a0ad6ecdaa0900df0089786.res"
+
+[deps]
+
+source_file="res://diffuseEvaporate.glsl"
+dest_files=["res://.godot/imported/diffuseEvaporate.glsl-b271987e0a0ad6ecdaa0900df0089786.res"]
+
+[params]
+

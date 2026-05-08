@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://dhoq02xsh4ix2"]
+
+[ext_resource type="Script" uid="uid://cnsk5s3q0u44c" path="res://node.gd" id="1_sy5k4"]
+
+[node name="Node" type="Node" unique_id=1307147908]
+script = ExtResource("1_sy5k4")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1738971558]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
